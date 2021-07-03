@@ -1,2 +1,2 @@
 # landingpage2
-http://landingpage2.nurhossain.xyz/
+https://nurhossain2858.github.io/landingpage2/
